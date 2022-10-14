@@ -1,0 +1,103 @@
+.lol{
+
+    padding-left: 600px;
+
+
+}
+
+.bg {
+    background-color:#020A18 ;
+    
+position: absolute;
+width: 1921px;
+height: 508px;
+left: -1px;
+top: 3344px;
+
+
+
+/* About */
+
+
+position: absolute;
+width: 1146px;
+height: 551px;
+left: 387px;
+top: 2623px;
+
+
+
+/* Feature */
+
+
+position: absolute;
+width: 1930px;
+height: 454px;
+left: -5px;
+top: 1999px;
+}
+
+
+h1 {
+    color: aliceblue;
+    
+position: absolute;
+width: 548px;
+height: 104px;
+left: 387px;
+top: 2667px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+/* or 52px */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+}
+p {
+    color: aliceblue;
+    position: absolute;
+width: 460px;
+height: 78px;
+left: 387px;
+top: 2811px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+
+.text {
+
+    padding-top: 120px;
+
+}
+
+img {
+    
+position: absolute;
+width: 642px;
+height: 551px;
+left: 891px;
+top: 2623px;
+
+background: url(about3.png);
+}
+ 
+
+
